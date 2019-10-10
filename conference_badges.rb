@@ -50,10 +50,10 @@ def printer(array)
     
     #{puts batch_badge_creator(array)}
   
-    p printer(["Alice", "Sam", "Julie", "Peter"])
+    
   
   
 
   
 end
-
+p printer(["Alice", "Sam", "Julie", "Peter"])
